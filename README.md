@@ -19,7 +19,8 @@ Create script and database according to the conditions below:
 - If anything other than an integer is input as a guess, it should print "*That is not an integer, guess again:*"
 - When the secret number is guessed, the script should print "*You guessed it in <number_of_guesses> tries. The secret number was <secret_number>. Nice job!*" and finish running. 
 
-
+[*number_guess.sh*](https://github.com/nikitanpatil1/Number-Guessing-Game/blob/main/number_guess.sh)
+[*number_guess.sql*](https://github.com/nikitanpatil1/Number-Guessing-Game/blob/main/number_guess.sql)
 
 
 ![Image](https://github.com/user-attachments/assets/cc7f4f16-2a46-4ace-897e-bf23ae985f4b)
