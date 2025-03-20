@@ -22,6 +22,21 @@ Create script and database according to the conditions below:
 
 
 
+![Image](https://github.com/user-attachments/assets/cc7f4f16-2a46-4ace-897e-bf23ae985f4b)
+
+![Image](https://github.com/user-attachments/assets/cc442835-830e-4e50-9666-8d968ec75bb2)
+
+![Image](https://github.com/user-attachments/assets/559e609a-030f-4697-9ea9-516193f94667)
+
+![Image](https://github.com/user-attachments/assets/c18d489b-3dfe-4fa1-b143-27d09660576f)
+
+![Image](https://github.com/user-attachments/assets/a814e0ef-963b-4aa6-96b1-52567a6842f3)
+
+![Image](https://github.com/user-attachments/assets/3d8d9367-7067-4720-8467-ebe3b0c4002a)
+
+![Image](https://github.com/user-attachments/assets/536c8149-61e3-4d3b-b11b-d65a04ff5055)
+
+![Image](https://github.com/user-attachments/assets/e60049f8-e556-457b-881c-7d5583ac11c4)
 
 
 
