@@ -70,7 +70,7 @@ Create script and database according to the conditions below:
 
 
 
-
+<!-- This passage describes a project where you create a number guessing game using **Bash scripting**, **PostgreSQL**, and **Git**. The game generates a random number between 1 and 1000 for users to guess, and stores user information in a PostgreSQL database. The script asks for a username, checks if the user has played before, and then prompts them to guess the secret number. If the guess is incorrect, it gives hints whether the guess is too high or too low. The game tracks the number of guesses and updates the user's statistics in the database, including the fewest guesses needed to win. The project involves setting up the database, writing the script, using Git for version control, and making sure to commit changes regularly. -->
 
 
 
